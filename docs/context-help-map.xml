@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="how_to_connect_your_ipad_wiht_airplay"
+               path="how_to_connect_your_ipad_wiht_airplay.html"/>
+   <appContext helpID="what_is_airplay" path="what_is_airplay.html"/>
+   <appContext helpID="" path="mirror_your_ipad_with_airplay.html"/>
+   <appContext helpID="" path="unable_to_mirror.html"/>
+   <appContext helpID="reference" path="reference.html"/>
+   <appContext helpID="topic_jd1_qzx_3dc" path="how_to_hdmi.html"/>
+   <appContext helpID="concept_qqf_dzx_3dc" path="what_is_hdmi.html"/>
+   <appContext helpID="" path="connecting_with_hdmi.html"/>
+</map>
